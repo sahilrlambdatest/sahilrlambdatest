@@ -16,19 +16,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-### 🧑‍💻 About Me
-
-```yaml
-name: Sahil Rajput
-role: QA Automation Engineer
-company: LambdaTest
-location: Noida, India
-currently_working_on: Test automation frameworks & KaneAI
-fun_fact: "I break software for a living — and get paid for it."
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
