@@ -29,55 +29,6 @@ fun_fact: "I break software for a living — and get paid for it."
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-### ⚙️ Tech Stack
-
-<div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,selenium,maven,docker,git,github,githubactions,vscode,jenkins,postman&perline=10&theme=dark" /></a>
-</div>
-
-<br/>
-
-<div align="center">
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST_Assured-4B9CD3?style=for-the-badge&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilrlambdatest&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrlambdatest&layout=compact&hide_border=true&langs_count=6&theme=radical&bg_color=0d1117" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrlambdatest&hide_border=true&theme=radical&background=0d1117" />
-</div>
-
-<br/>
-
-<!-- Animated activity graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilrlambdatest&theme=rogue&hide_border=true&bg_color=0d1117&color=fe428e&line=fe428e&point=a9fef7" width="95%"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilrlambdatest&theme=radical&no-frame=true&column=7&margin-w=10" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
