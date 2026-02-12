@@ -7,11 +7,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FE428E&center=true&vCenter=true&random=false&width=600&lines=QA+Automation+Engineer+%40+LambdaTest;Selenium+%7C+Playwright+%7C+Java+%7C+TestNG;Building+reliable+test+frameworks;279%2B+contributions+this+year+%F0%9F%94%A5" alt="Typing SVG" /></a>
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-rajput-890784187)
-[![LambdaTest](https://img.shields.io/badge/LambdaTest-6C3EC6?style=for-the-badge&logo=lambdatest&logoColor=white)](https://www.lambdatest.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sahilrlambdatest&style=for-the-badge&color=FE428E)](https://github.com/sahilrlambdatest)
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
